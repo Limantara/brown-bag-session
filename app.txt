@@ -6,6 +6,7 @@ Fix bug 3
 
 Working on bugs
 Reflect code review on layout bugs
+## CONTINUE WORKING ON FEATURE USING FEATURE BRANCH ##
 Working on feature 2
 Fixing datetime bug
 
