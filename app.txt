@@ -7,6 +7,7 @@ Working on bugs
 Reflect code review on layout bugs
 ## CONTINUE WORKING ON FEATURE USING FEATURE BRANCH ##
 Working on feature 2
+** Continue working on my feature using centralized workflow **
 Fixing datetime bug
 
 Continue working on feature 2
