@@ -2,8 +2,10 @@ Hello world!
 
 Fix bug 3
 ** working on feature on centralized workflow **
+## WORKING ON FEATURE USING FEATURE BRANCH ##
 Working on bugs
 Reflect code review on layout bugs
+## CONTINUE WORKING ON FEATURE USING FEATURE BRANCH ##
 Working on feature 2
 Fixing datetime bug
 
